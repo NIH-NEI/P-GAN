@@ -1,7 +1,6 @@
 # Description
 
-This is an implementation of the paper "Revealing speckle obscured retinal
-cellular structure in the living human eye with artificial intelligence".
+This is an implementation of the paper "Revealing speckle obscured living human retinal cells with artificial intelligence assisted adaptive optics optical coherence tomography". 
 
 # System Requirements
 
