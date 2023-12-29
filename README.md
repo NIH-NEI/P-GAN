@@ -45,3 +45,20 @@ python train_model.py \
     --bs <batch size> \
     --epoch <number of epochs>
 ```
+
+### Example
+
+Single acquired speckled RPE image:
+
+<img src="assets/speckledRPE.png" width="512" height="512" />
+
+P-GAN recovered RPE:
+
+<img src="assets/PGANRecoveredRPE.png" width="512" height="512" />
+
+
+
+Ground truth averaged RPE:
+
+<img src="assets/groundtruthAveragedRPE.png" width="512" height="512" />
+
