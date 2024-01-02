@@ -20,7 +20,7 @@ Das et.al, "Revealing speckle obscured living human retinal cells with artificia
 ```
 conda create -n <newenv> python=3.7.13
 conda activate <newenv>
-cd RPE-recovery-DL
+cd P-GAN
 pip install -r requirements.txt 
 cd src
 ```
