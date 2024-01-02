@@ -27,9 +27,7 @@ cd src
 
 # File Description
 
-- A demo test dataset has been deposited in `./data/test_data`. The folder contains eight speckled images which are input to the model (P-GAN)
-
-​      `(./data/test_data/input)`. 
+- A demo test dataset has been deposited in `./data/test_data`. The folder contains eight speckled images which are input to the model (P-GAN) `(./data/test_data/input)`. 
 
 - The ground truth images and the P-GAN recovered images are provided in `(./data/test_data/ground-truth)` and `(./data/test_data/result)`, respectively.
 
