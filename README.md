@@ -4,7 +4,7 @@ This is a TensorFlow implementation of parallel discriminator generative adversa
 
 If any portion of this code is used, please cite the following paper in your publication:
 
-Das et.al, "Revealing speckle obscured living human retinal cells with artificial intelligence assisted adaptive optics optical coherence tomography". 
+Vineeta Das, Furu Zhang, Andrew J Bower, Joanne Li, Tao Liu, Nancy Aguilera, Bruno Alvisio, Zhuolin Liu, Daniel X Hammer and Johnny Tam, "Revealing speckle obscured living human retinal cells with artificial intelligence assisted adaptive optics optical coherence tomography." *Communications Medicine* 4.1 (2024): 68.
 
 # System Requirements
 
